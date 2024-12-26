@@ -8,7 +8,7 @@ export default function UserCards({ users }) {
         {users.map((user, idx) => (
           <div
             key={idx}
-            className="flex flex-col items-center rounded-lg bg-slate-200 py-4 md:p-4 shadow-xl hover:border hover:border-blue-500 transition-shadow"
+            className="flex flex-col items-center rounded-lg bg-gray-100/50 py-4 md:p-4 shadow-xl hover:border hover:border-blue-500 transition-shadow"
           >
             <div className="flex items-center gap-8">
               <img
