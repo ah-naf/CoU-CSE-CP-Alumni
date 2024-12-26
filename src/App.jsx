@@ -68,17 +68,15 @@ function App() {
               style={{ fontFamily: `"Noto Serif", serif` }}
               className="text-2xl sm:text-4xl tracking-wide font-bold mb-4"
             >
-              Lorem ipsum dolor sit amet.
+              CoU CSE Competitive Programming Alumni
             </h1>
             <p
               style={{ fontFamily: `"Montserrat", serif` }}
               className="text-gray-200 text-sm sm:text-lg"
             >
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Reiciendis itaque repudiandae earum labore autem consectetur.
-              Excepturi adipisci, veniam labore autem, at consequuntur, culpa
-              reprehenderit neque consectetur assumenda quia corporis.
-              Accusamus?
+              A directory of competitive programmers from Comilla University,
+              CSE Department, featuring their names, sessions, and social
+              profiles like Facebook, LinkedIn, GitHub, and Codeforces.
             </p>
           </div>
         </div>
