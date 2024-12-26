@@ -1,4 +1,5 @@
 import React from "react";
+import { FaFacebook, FaGithub, FaLinkedin, FaCode } from "react-icons/fa";
 
 export default function UserCards({ users }) {
   return (
@@ -7,7 +8,7 @@ export default function UserCards({ users }) {
         {users.map((user, idx) => (
           <div
             key={idx}
-            className="flex flex-col items-center rounded-lg bg-gray-100/50 py-4 md:p-4 hover:shadow-lg hover:border hover:border-blue-500 transition-shadow"
+            className="flex flex-col items-center rounded-lg bg-slate-200 py-4 md:p-4 shadow-xl hover:border hover:border-blue-500 transition-shadow"
           >
             <div className="flex items-center gap-8">
               <img
@@ -24,16 +25,40 @@ export default function UserCards({ users }) {
             </div>
 
             <div className="flex flex-wrap justify-center gap-2">
-              {Object.keys(user.social).map((val, ind) => (
-                <a
-                  key={ind}
-                  href={user.social[val]}
-                  target="__blank"
-                  className="rounded-full bg-blue-50 px-3 py-1 text-xs font-medium text-blue-600"
-                >
-                  {val}
-                </a>
-              ))}
+              {Object.keys(user.social).map((platform, index) => {
+                // Decide which icon to show
+                let IconComponent;
+                switch (platform) {
+                  case "facebook":
+                    IconComponent = <FaFacebook className="inline mr-1" />;
+                    break;
+                  case "github":
+                    IconComponent = <FaGithub className="inline mr-1" />;
+                    break;
+                  case "linkedin":
+                    IconComponent = <FaLinkedin className="inline mr-1" />;
+                    break;
+                  case "codeforces":
+                    IconComponent = <FaCode className="inline mr-1" />;
+                    break;
+                  default:
+                    IconComponent = null;
+                    break;
+                }
+
+                return (
+                  <a
+                    key={index}
+                    href={user.social[platform]}
+                    target="__blank"
+                    rel="noopener noreferrer"
+                    className="rounded-full bg-blue-50 px-3 py-1 text-xs font-medium text-blue-600 flex items-center"
+                  >
+                    {IconComponent}
+                    {platform}
+                  </a>
+                );
+              })}
             </div>
           </div>
         ))}

@@ -55,13 +55,15 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen">
-      <div className="bg-gray-800/80 p-8 pb-0">
+    <div className="relative min-h-screen">
+      {/* <img src="logo.png" alt="" className="absolute w-32" /> */}
+      <div className="bg-[#050D19] p-8 pb-0">
         <div className="max-w-4xl mx-auto">
           <img
-            src="main.svg"
+            src="logo.png"
             alt=""
-            className="max-w-md sm:max-w-lg md:max-w-xl lg:max-w-2xl mx-auto"
+            className="max-w-md sm:max-w-lg md:max-w-xl lg:max-w-2xl mx-auto rounded-full"
+            style={{ boxShadow: "0px 3px 60px 35px rgba(255,255,255,.1)" }}
           />
           <div className="text-center text-white mt-6">
             <h1

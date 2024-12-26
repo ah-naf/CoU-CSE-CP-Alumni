@@ -21,4 +21,12 @@ export default [
       codeforces: "https://codeforces.com/profile/rakibjoy",
     },
   },
-];
+].sort((a, b) => {
+  // Compare sessions first:
+  const sessionComparison = a.session.localeCompare(b.session);
+  if (sessionComparison !== 0) {
+    return sessionComparison;
+  }
+  // If sessions are the same, compare by name:
+  return a.name.localeCompare(b.name);
+});
