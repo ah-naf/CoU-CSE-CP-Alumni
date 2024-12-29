@@ -169,6 +169,57 @@ export default [
     },
   },
   {
+    name: "Raihan Khan",
+    session: "2015-16",
+    avatar: "raihan8.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/raihankhanraka/",
+      codeforces: "https://codeforces.com/profile/Segmented",
+      facebook: "https://www.facebook.com/raihankhanraka",
+      github: "https://github.com/raihankhan",
+    },
+  },
+  {
+    name: "Fahim Shahriar",
+    session: "2015-16",
+    avatar: "fahiim.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/qwertyz15/",
+      facebook: "https://www.facebook.com/imelshaarawy",
+    },
+  },
+  {
+    name: "Tanvir Ahmed",
+    session: "2015-16",
+    avatar: "tanvir.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/tanvir-ahmed-0629011b8/",
+      codeforces: "https://codeforces.com/profile/DRAGON_TANVIR",
+      facebook: "https://www.facebook.com/tanvircoucse",
+    },
+  },
+  {
+    name: "Moniruzzaman Oru",
+    session: "2015-16",
+    avatar: "monir.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/moniruzzaman-oru-a59931161/",
+      codeforces: "https://codeforces.com/profile/moniruzzaman",
+      facebook: "https://www.facebook.com/oriuzzaman.moru",
+    },
+  },
+  {
+    name: "Chayti Saha",
+    session: "2015-16",
+    avatar: "chayti.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/chayti-saha-56a911216/",
+      codeforces: "https://codeforces.com/profile/Chayti_Saha98",
+      facebook: "https://www.facebook.com/Treasure.Chayti",
+      github: "https://gitlab.com/ChaytiSaha/",
+    },
+  },
+  {
     name: "Mestu Paul",
     session: "2018-19",
     avatar: "Mestu.png",
