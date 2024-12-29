@@ -150,6 +150,25 @@ export default [
     },
   },
   {
+    name: "Farah Nawar",
+    session: "2015-16",
+    avatar: "farah.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/farah-nawar-15a4b3156/",
+      codeforces: "https://codeforces.com/profile/farah_n",
+    },
+  },
+  {
+    name: "Saniuzzaman Robin",
+    session: "2015-16",
+    avatar: "robin.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/saniuzzaman-robin/",
+      codeforces: "https://codeforces.com/profile/robin008",
+      facebook: "https://www.facebook.com/tsrobin",
+    },
+  },
+  {
     name: "Mestu Paul",
     session: "2018-19",
     avatar: "Mestu.png",
