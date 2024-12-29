@@ -44,27 +44,6 @@ export default [
     },
   },
   {
-    name: "Md.Jahir (Labib) Rayhan",
-    session: "2018-19",
-    avatar: "Jahir_rayhan.png",
-    social: {
-      linkedin: "https://www.linkedin.com/in/md-jahir-rayhan-b60279176",
-      codeforces: "https://codeforces.com/profile/rayhan_labib",
-      github: "https://github.com/Rayhan-labib7",
-      facebook: "https://www.facebook.com/jahir.rayhan.982845",
-    },
-  },
-  {
-    name: "Bonusree Datta",
-    session: "2018-19",
-    avatar: "bonusree.png",
-    social: {
-      linkedin: "https://www.linkedin.com/in/bonusree-datta-26598022a",
-      codeforces: "https://codeforces.com/profile/Bonusree_Datta",
-      facebook: "https://www.facebook.com/bonusreedatta.99",
-    },
-  },
-  {
     name: "Rajib Chandra Pal",
     session: "2011-12",
     avatar: "rajib.png",
