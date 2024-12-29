@@ -60,6 +60,96 @@ export default [
     },
   },
   {
+    name: "MD Sakhawat Hosen",
+    session: "2013-14",
+    avatar: "sakhawat.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/md-sakhawat-hosen-475b16239/",
+      codeforces: "https://codeforces.com/profile/InshaAllah",
+      facebook: "https://www.facebook.com/sakhawatcou",
+    },
+  },
+  {
+    name: "Yasir Uddin Ahamed",
+    session: "2014-15",
+    avatar: "nabil.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/yasir-uddin-ahamed/",
+      codeforces: "https://codeforces.com/profile/shikimaru",
+      github: "https://github.com/yasirnabil534",
+      facebook: "https://www.facebook.com/itz.n.boss",
+    },
+  },
+  {
+    name: "Aminul Islam Mamun",
+    session: "2014-15",
+    avatar: "mamun.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/numamsa/",
+    },
+  },
+  {
+    name: "Mohammed Iqbal Hossain",
+    session: "2015-16",
+    avatar: "bappy.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/iqbal-bappy/",
+      codeforces: "https://codeforces.com/profile/Legendary_Loser",
+      github: "https://github.com/Bappy38",
+      facebook: "https://www.facebook.com/itz.me.bappy",
+    },
+  },
+  {
+    name: "Md. Mohibur Rahman",
+    session: "2015-16",
+    avatar: "mohibur.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/mohibur/",
+      codeforces: "https://codeforces.com/profile/mohibur",
+      github: "https://github.com/mohibur11",
+      facebook: "https://www.facebook.com/sbokamanus",
+    },
+  },
+  {
+    name: "Shariful Islam",
+    session: "2015-16",
+    avatar: "sharif.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/shariful-islam-302366179/",
+      codeforces: "https://codeforces.com/profile/SharifulIslam",
+      facebook: "https://www.facebook.com/profile.php?id=100009165456809",
+    },
+  },
+  {
+    name: "Sohel Arman",
+    session: "2015-16",
+    avatar: "arman.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/sohel-arman-137220190/",
+      codeforces: "https://codeforces.com/profile/_Sohel_Arman",
+      github: "https://github.com/sohelarman1100",
+      facebook: "https://www.facebook.com/sohel.arman.94214",
+    },
+  },
+  {
+    name: "Md. Rakibul Islam",
+    session: "2015-16",
+    avatar: "rakib8.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/md-rakibul-islam1997/",
+      facebook: "https://www.facebook.com/rakibislam1996",
+    },
+  },
+  {
+    name: "Saikat Das Tusher",
+    session: "2015-16",
+    avatar: "saikat.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/saikat-tushar-52543a204/",
+      facebook: "https://www.facebook.com/Saikat.Tushar",
+    },
+  },
+  {
     name: "Mestu Paul",
     session: "2018-19",
     avatar: "Mestu.png",
