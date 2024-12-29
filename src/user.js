@@ -478,6 +478,28 @@ export default [
         facebook: "https://www.facebook.com/mdomitul.islam.56",
       },
     },
+    {
+      name: "Saiful Alam",
+      session: "2016-17",
+      avatar: "saiful9.png",
+      social: {
+        linkedin: "https://www.linkedin.com/in/saiful-alam-3a92b3235/",
+        codeforces: "https://codeforces.com/profile/Fighting_Falcon",
+        facebook: "https://www.facebook.com/saifulalamcou",
+      },
+    },
+  
+    {
+      name: "Md. Rakibul Islam",
+      session: "2016-17",
+      avatar: "rakib9.png",
+      social: {
+        linkedin: "https://www.linkedin.com/in/md-rakibul-islam-26676b15b/",
+        codeforces: "https://codeforces.com/profile/Rakibul_Islam_CoU",
+        github: "https://github.com/rakibul-cou",
+        facebook: "https://www.facebook.com/rk.cse.cou",
+      },
+    },
 ].sort((a, b) => {
   // Compare sessions first:
   const sessionComparison = a.session.localeCompare(b.session);
