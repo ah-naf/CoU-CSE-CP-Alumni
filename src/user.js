@@ -22,7 +22,6 @@ export default [
     },
   },
   {
-<<<<<<< HEAD
     name: "Mestu Paul",
     session: "2018-19",
     avatar: "Mestu.png",
@@ -65,7 +64,7 @@ export default [
       facebook: "https://www.facebook.com/bonusreedatta.99",
     },
   },
-=======
+  {
     name: "Rajib Chandra Pal",
     session: "2011-12",
     avatar: "rajib.png",
@@ -166,8 +165,6 @@ export default [
       facebook: "https://www.facebook.com/nafeu.khan.90",
     },
   },
-  
->>>>>>> 2d7daa010b999ebbf8bfcbc2763da5175b90768f
 ].sort((a, b) => {
   // Compare sessions first:
   const sessionComparison = a.session.localeCompare(b.session);

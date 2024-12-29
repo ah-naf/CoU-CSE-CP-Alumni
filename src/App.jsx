@@ -131,7 +131,7 @@ function App() {
         </div>
       </div>
 
-      <div className="mt-24">
+      <div className="mt-24 pb-8">
         {/* Pass the filtered data to UserCards */}
         <UserCards users={filteredData} />
       </div>
