@@ -22,28 +22,6 @@ export default [
     },
   },
   {
-    name: "Mestu Paul",
-    session: "2018-19",
-    avatar: "Mestu.png",
-    social: {
-      linkedin: "https://www.linkedin.com/in/mestu-paul-17076a195",
-      codeforces: "https://codeforces.com/profile/Mestu",
-      github: "https://github.com/Mestu-Paul",
-      facebook: "https://www.facebook.com/mestu.paul.812",
-    },
-  },
-  {
-    name: "Mehedi Hasan Arafat",
-    session: "2018-19",
-    avatar: "mehedi_arafat.png",
-    social: {
-      linkedin: "https://www.linkedin.com/in/mehedi-hasan-arafat-aa061473",
-      codeforces: "https://codeforces.com/profile/m-e-h-e-d-i",
-      github: "https://github.com/Mehedi-10",
-      facebook: "https://www.facebook.com/The.genius.mehedi.hasan.arafat.10",
-    },
-  },
-  {
     name: "Rajib Chandra Pal",
     session: "2011-12",
     avatar: "rajib.png",
