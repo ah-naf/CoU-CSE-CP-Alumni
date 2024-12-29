@@ -39,6 +39,26 @@ export default [
       linkedin: "https://www.linkedin.com/in/mohammad-mohsin-601527159/",
     },
   },
+  {
+    name: "Reajul Haque Reayz",
+    session: "2012-13",
+    avatar: "reayz.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/reayz/",
+      codeforces: "https://codeforces.com/profile/Reayz",
+      github: "https://github.com/Reayz",
+      facebook: "https://www.facebook.com/reajul.haque",
+    },
+  },
+  {
+    name: "Ashraful Afruz",
+    session: "2012-13",
+    avatar: "afruz.png",
+    social: {
+      codeforces: "https://codeforces.com/profile/ashraful_afruz",
+      facebook: "https://www.facebook.com/resoluteash.khan",
+    },
+  },
 ].sort((a, b) => {
   // Compare sessions first:
   const sessionComparison = a.session.localeCompare(b.session);
