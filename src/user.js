@@ -13,12 +13,12 @@ export default [
   {
     name: "Md. Rakib Hossain",
     session: "2019-20",
-    avatar: "rakibjoy.jpeg",
+    avatar: "rakibjoy.jpg",
     social: {
-      github: "https://www.github.com/TheRakibJoy",
-      facebook: "https://www.facebook.com/therakibjoy",
       linkedin: "https://www.linkedin.com/in/therakibjoy",
-      codeforces: "https://codeforces.com/profile/rakibjoy",
+      codeforces: "https://codeforces.com/profile/RakibJoy",
+      github: "https://github.com/TheRakibJoy",
+      facebook: "https://www.facebook.com/therakibjoy",
     },
   },
 ].sort((a, b) => {
