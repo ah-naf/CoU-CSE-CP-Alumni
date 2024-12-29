@@ -296,6 +296,118 @@ export default [
       facebook: "https://www.facebook.com/tasfiquerishad86",
     },
   },
+  {
+    name: "Mahabub Rahman",
+    session: "2017-18",
+    avatar: "mahabub.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/mahabub618/",
+      codeforces: "https://codeforces.com/profile/mahabub.rahman",
+      facebook: "https://www.facebook.com/Mahabub.Rahman618",
+    },
+  },
+  {
+    name: "Tuhin Miah",
+    session: "2017-18",
+    avatar: "tuhin.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/tuhin-miah-b2b48b264/",
+      codeforces: "https://codeforces.com/profile/tuhin107494",
+      facebook: "https://www.facebook.com/profile.php?id=100080219091172",
+    },
+  },
+  {
+    name: "Syed Shakil M.",
+    session: "2017-18",
+    avatar: "syedshakil.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/syed-shakil-mahmud/",
+      codeforces: "https://codeforces.com/profile/Syed_Shajib",
+      facebook: "https://www.facebook.com/SyedShajib55",
+    },
+  },
+  {
+    name: "Khandaker Jannatul Ritu",
+    session: "2017-18",
+    avatar: "ritu.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/khandaker-jannatul-ritu/",
+      codeforces: "https://codeforces.com/profile/girgiti",
+      github: "https://github.com/Raajokiaa-Ritu"
+      facebook: "https://www.facebook.com/jannatulkhandakerritu",
+    },
+  },
+  {
+    name: "MD Samrat Hossen",
+    session: "2017-18",
+    avatar: "samrat.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/md-samrat-hossen-83021617a/",
+      codeforces: "https://codeforces.com/profile/MLE",
+      facebook: "https://www.facebook.com/mdsamrathossen.emily",
+    },
+  },
+  {
+    name: "Sirajum Munira",
+    session: "2017-18",
+    avatar: "sirajummunira.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/sirajum-munira-31a0021ba/",
+      github: "https://github.com/Sirajam-Munira",
+      facebook: "https://www.facebook.com/Sirajum.Munira.Nizhum",
+    },
+  },
+  {
+    name: "Moin Uddin Ruman",
+    session: "2017-18",
+    avatar: "moinruman.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/moin-uddin-ruman-101a37260/",
+      facebook: "https://www.facebook.com/Rumans07",
+    },
+  },
+  {
+    name: "Syed khaled Hossain",
+    session: "2018-19",
+    avatar: "khaledHossain.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/khaled01/",
+      codeforces: "https://codeforces.com/profile/khaled001",
+      github: "https://github.com/Khaledr001",
+      facebook: "https://www.facebook.com/khaledhossain.razu",
+    },
+  },
+  {
+    name: "Nayeem Hossain",
+    session: "2018-19",
+    avatar: "NayeemHossain.png",
+    social: {
+      linkedin: "https://www.linkedin.com/in/nayeem-cse-cou/",
+      github: "https://github.com/im-nayeem",
+      facebook: "https://www.facebook.com/nayeem.cse.cou",
+    },
+  },
+    {
+      name: "Md Tarek Hossain (Tusher)",
+      session: "2018-19",
+      avatar: "tarek11.png",
+      social: {
+        linkedin: "https://www.linkedin.com/in/mdtarek33/",
+        codeforces: "https://codeforces.com/profile/T--o_o--T",
+        github: "https://github.com/tarektusher",
+      },
+    },
+    {
+      name: "Omitul Islam",
+      session: "2018-19",
+      avatar: "omitul11.png",
+      social: {
+        linkedin: "https://www.linkedin.com/in/omitul-islam/",
+        codeforces: "https://codeforces.com/profile/Homo_sapiens_MAX",
+        github: "https://github.com/Omitul",
+        facebook: "https://www.facebook.com/mdomitul.islam.56",
+      },
+    },
 ].sort((a, b) => {
   // Compare sessions first:
   const sessionComparison = a.session.localeCompare(b.session);
