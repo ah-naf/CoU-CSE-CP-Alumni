@@ -10,6 +10,7 @@ import {
 import { SearchIcon } from "./Components/SearchIcon";
 import UserCards from "./Components/UserCards";
 import userData from "./user";
+import { FaGithub } from "react-icons/fa";
 
 function App() {
   // Store the entire user data
@@ -56,6 +57,9 @@ function App() {
 
   return (
     <div className="relative min-h-screen">
+      <a href="https://gihub.com/ah-naf/CoU-CSE-CP-Alumni" target="__blank" className="absolute text-white text-2xl right-0 translate-y-1/2 -translate-x-1/2">
+      <FaGithub />
+      </a>
       {/* <img src="logo.png" alt="" className="absolute w-32" /> */}
       <div className="bg-[#050D19] p-8 pb-0">
         <div className="max-w-4xl mx-auto">
