@@ -403,7 +403,7 @@ export default [
     social: {
       linkedin: "https://www.linkedin.com/in/khandaker-jannatul-ritu/",
       codeforces: "https://codeforces.com/profile/girgiti",
-      github: "https://github.com/Raajokiaa-Ritu"
+      github: "https://github.com/Raajokiaa-Ritu",
       facebook: "https://www.facebook.com/jannatulkhandakerritu",
     },
   },
