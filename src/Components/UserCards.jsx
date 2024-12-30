@@ -30,6 +30,7 @@ export default function UserCards({ users }) {
                 className="mb-4 h-20 w-20 rounded-full object-cover cursor-pointer"
                 style={{ boxShadow: "0px 0px 10px rgba(0,0,0,0.25)" }}
                 onClick={() => openModal(user.avatar)}
+                loading="lazy"
               />
               <div>
                 <h2 className="mb-1 text-[1.2rem] font-semibold text-gray-800">
