@@ -182,7 +182,7 @@ export default [
   {
     name: "Fahim Shahriar",
     session: "2015-16",
-    avatar: "fahiim.png",
+    avatar: "fahim.png",
     social: {
       linkedin: "https://www.linkedin.com/in/qwertyz15/",
       facebook: "https://www.facebook.com/imelshaarawy",
