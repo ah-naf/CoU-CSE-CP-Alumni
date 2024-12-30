@@ -57,7 +57,7 @@ function App() {
 
   return (
     <div className="relative min-h-screen">
-      <a href="https://gihub.com/ah-naf/CoU-CSE-CP-Alumni" target="__blank" className="absolute text-white text-2xl right-0 translate-y-1/2 -translate-x-1/2">
+      <a href="https://github.com/ah-naf/CoU-CSE-CP-Alumni" target="__blank" className="absolute text-white text-2xl right-0 translate-y-1/2 -translate-x-1/2">
       <FaGithub />
       </a>
       {/* <img src="logo.png" alt="" className="absolute w-32" /> */}
